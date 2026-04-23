@@ -42,4 +42,4 @@ If the city is not found, an error message is displayed with a 404 illustration.
 This project uses the OpenWeather API:
 
 ```js id="api1"
-https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric&lang=pt_br
+https://api.openweathermap.org/data/2.5/weather?q={São Paulo}&appid={ca7dc856c2d380554271415552f9ef34}&units=metric&lang=pt_br
